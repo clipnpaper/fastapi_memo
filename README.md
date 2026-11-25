@@ -6,9 +6,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)
 ![LAB](https://img.shields.io/badge/LAB-6%20steps-1f5fbf)
 
+
 ![실행 과정 미리보기: MySQL 준비부터 완성 앱까지](docs/demo.gif)
 
-MySQL 준비 → 자동 점검 → 테이블 재생성 → 서버 실행 → API 호출 → DB 확인 → 완성 화면 (각 단계 이미지는 바로 아래)
+MySQL 준비 → 자동 점검 → 테이블 재생성 → 서버 실행 → API 호출 → DB 확인 → 완성 화면 (각 단계 이미지는 바로 아래에 있어용)
 
 ## 실행 결과 화면
 
